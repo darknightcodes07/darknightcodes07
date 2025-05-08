@@ -1,7 +1,7 @@
 <!-- Banner image -->
 <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%" />
 
-# Hi 👋, I'm   Saul
+# Hi 👋, I'm Saul
 
 ### A passionate frontend developer.
 
@@ -12,10 +12,18 @@
 ---
 
 - 🌱 I’m currently learning **MERN stack**, **Android Studio**
-- 👨‍💻 Check out my projects at: [github.com/darknightcodes07](https://github.com/darknightcodes07)
-- 📫 Reach me at: [darkknight.codes07@gmail.com](mailto:darkknight.codes07@gmail.com)
+- 👨‍💻 Check out my projects: [github.com/darknightcodes07](https://github.com/darknightcodes07)
+- 📫 Reach me at: [angelinosaulm@gmail.com](mailto:angelinosaulm@gmail.com)
 
 ---
+
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400"/>
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angelino%20Saul-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angelino-saul-953b16317/)
+[![Gmail](https://img.shields.io/badge/Gmail-angelinosaulm@gmail.com-red?logo=gmail&logoColor=white)](mailto:angelinosaulm@gmail.com)
+
 
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400"/>
 
