@@ -1,11 +1,10 @@
-<!-- Banner image -->
-<img src="https://your-image-url.com/banner.png" alt="Banner" width="100%" />
+<!
 
 # Hi 👋, I'm Saul
 
 ### A passionate frontend developer.
 
-> Currently experimenting with random and fun projects 🚀
+ Currently experimenting with random and fun projects 🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=darknightcodes07&label=Profile%20views&color=0e75b6&style=flat)
 
