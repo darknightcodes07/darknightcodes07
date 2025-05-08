@@ -15,7 +15,7 @@ Currently experimenting with random and fun projects 🚀
 
 ---
 
-<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400"/>
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="100"/>
 
 ## Connect with me:
 
