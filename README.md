@@ -22,11 +22,9 @@
 <p>
   <img src="https://img.icons8.com/color/48/python.png"/>
   <img src="https://img.icons8.com/color/48/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/css3.png"/>
   <img src="https://img.icons8.com/color/48/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/linux.png"/>
 </p>
 
 
